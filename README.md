@@ -1,4 +1,4 @@
-# sCO2 Recompression without ReHeating
+# sCO2 Recompression without ReHeating (No Equipments Design)
 
 ![image](https://github.com/user-attachments/assets/c58a8a91-e232-44cf-8ddc-aa64d0e88b43)
 
